@@ -1,6 +1,6 @@
 # Welcome to my GitHub Page!
 
-Hi, I am Steffi, a `web development student` at Business College Helsinki. I will graduate 12/2025 and available for your projects.
+Hi, I am Steffi, a `web development student` at Business College Helsinki. I will graduate 12/2025 and will be available for challenges.
 
 :cat2: :unicorn:
 
