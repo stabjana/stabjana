@@ -1,7 +1,7 @@
 ### Stefanie Jana :wave:
 
 Hi, I am Steffi, a `web development student` at Business College Helsinki. \
-I will graduate end of December 2025 and will be available for opportunities. <  /br>
+I will graduate end of December 2025 and will be available for opportunities. \
 In this account you can mainly see my study exercises.
 
 :cat2: :unicorn:
