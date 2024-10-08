@@ -1,6 +1,7 @@
-# Welcome to my GitHub Page!
+### Stefanie Jana :wave:
 
-Hi, I am Steffi, a `web development student` at Business College Helsinki. I will graduate 12/2025 and will be available for challenges.
+Hi, I am Steffi, a `web development student` at Business College Helsinki. 
+I will graduate end of December 2025 and will be available for opportunities.
 
 :cat2: :unicorn:
 
@@ -9,7 +10,7 @@ let happyPlace = "coding";
 console.log(`I love ${happyPlace}.`);
 ```
 
-You can find my whole CV in LinkedIn [LinkedIn](linkedin.com/in/stefanie-jana-a0b094a8)
+You can find my whole CV in [LinkedIn](linkedin.com/in/stefanie-jana-a0b094a8)
 
 <!--
 **stabjana/stabjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
