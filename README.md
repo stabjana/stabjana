@@ -12,7 +12,7 @@ let happyPlace = "coding";
 console.log(`I love ${happyPlace}.`);
 ```
 
-You can find my whole CV in [LinkedIn]([linkedin.com/in/stefanie-jana-a0b094a8](https://www.linkedin.com/in/stefanie-jana-a0b094a8/))
+You can find my whole CV in [LinkedIn]((https://www.linkedin.com/in/stefanie-jana-a0b094a8/))
 
 <!--
 **stabjana/stabjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
