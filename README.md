@@ -3,7 +3,7 @@
 Hi, I am Steffi, a former archaeologist and now `web development student` at Business College Helsinki. \
 I will graduate end of December 2025 and will be available for opportunities.
 
-In this account you can mainly see my study exercises.
+In this account you can see my study exercises, some group projects and our final internship project in collaboration with con2.
 
 :cat2: :unicorn:
 
