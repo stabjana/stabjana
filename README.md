@@ -4,7 +4,7 @@ Hi, I am Steffi, a former archaeologist and now `web development graduate` at Bu
 I will graduate end of December 2025 and will be available for opportunities.
 :cat2: :unicorn:
 
-In this account you can see study exercises, group projects and our final internship project in collaboration with con2:
+In this account you can see my group projects study exercises and our final internship project in collaboration with con2:
 
 #### [Multi-Tenancy Storage & Booking App – “Harakka”](https://github.com/con2/harakka)
 **Role:** Product Owner · Team Lead · Full-Stack Developer  
