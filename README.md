@@ -24,8 +24,8 @@ During our internship, I worked as a part of a small, self-organised development
 
 The project gave me a real experience with autonomy, ownership and how to deliver a production-level app with my team.
 
-```js
-let happyPlace = "coding";
+```ts
+const happyPlace = "coding";
 console.log(`I love ${happyPlace}.`);
 ```
 
