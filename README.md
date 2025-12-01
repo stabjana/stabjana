@@ -1,21 +1,28 @@
 ### Stefanie Jana :wave:
 
-Hi, I am Steffi, a former archaeologist and now `web development graduate` at Business College Helsinki. \
-I will graduate end of December 2025 and will be available for opportunities.
+Hi, I’m Steffi, a former archaeologist and now a full-stack developer.  
+I recently finished my studies at Business College Helsinki and I am currently working in an internship at Nutriliser, where our team is building an MVP for a food app using React Native, Python and Supabase.  
+I love learning, building things and turning ideas into real apps and working with people.  
 🐈 🦄
 
-In this account you can see my group projects study exercises and our final internship project in collaboration with con2:
+Here on my GitHub you can find my study projects, group work and our final internship project built together with **con2**.
 
-#### [Multi-Tenancy Storage & Booking App – “Harakka”](https://github.com/con2/harakka)
-**Role:** Product Owner · Team Lead · Full-Stack Developer  
-**Tech Stack:** TypeScript · React · Node.js · Supabase · PostgreSQL · TailwindCSS  
+---
 
-As part of our development team I contributed as a **full stack developer** to the **Harakka full-stack storage and booking application**, developed within the [con2](https://github.com/con2) organization.
-My responsibilities included:
-- Acting as **Product owner and Scrum Master**, I did Sprint planning, set priorities and I made sure that we incorporated all customers feedback.
-- I implemented a lot of **backend APIs** (Node.js and supabase) -> they have been worked on continuously afterwards to fit multi tenancy and customers expectations.
-- Bug reports and Bugfix tracking (also bug fixing)
-- Reviewing Pull Requests and making sure we have all documentation ready
+### ⭐ [Multi-Tenancy Storage & Booking App – “Harakka”](https://github.com/con2/harakka)
+
+**Role:** Full-Stack Developer · Product Owner · Team Lead  
+**Tech Stack:** TypeScript · React · Node.js · Supabase · PostgreSQL · TailwindCSS
+
+During our internship, I worked as a part of a small, self-organised development team. We built a full-stack multi-tenant booking app for a real customer. I contributed technically and also in a product-oriented role.
+
+**My main responsibilities:**
+- Acting as *Product Owner / Scrum Master* with sprint planning, prioritizing and customer communication  
+- Designing and implementing several backend APIs (Node.js + Supabase) 
+- Debugging, bug reports and bug fixing  
+- Reviewing pull requests and supporting the team with documentation and coordination  
+
+The project gave me a real experience with autonomy, ownership and how to deliver a production-level app with my team.
 
 ```js
 let happyPlace = "coding";
@@ -38,19 +45,3 @@ console.log(`I love ${happyPlace}.`);
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-
-<!--
-**stabjana/stabjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
