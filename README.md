@@ -10,6 +10,7 @@ Here on my GitHub you can find my study projects, group work and our final inter
 ---
 
 #### [Multi-Tenancy Storage & Booking App – “Harakka”](https://github.com/con2/harakka) - Link
+(unfortunately it if offline until our customers are deploying it again)
 
 **Role:** Full-Stack Developer · Product Owner · Team Lead  
 **Tech Stack:** TypeScript · React · Node.js · Supabase · PostgreSQL · TailwindCSS
