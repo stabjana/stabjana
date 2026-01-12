@@ -1,29 +1,13 @@
 ### Stefanie Jana :wave:
 
 Hi, I’m Steffi, a former archaeologist and now a full-stack developer.  
-I recently finished my studies at Business College Helsinki and I am currently working in an internship at Nutriliser, where our team is building an MVP for a food app using React Native, Python and Supabase.  
+I recently finished my studies at Business College Helsinki and I am currently working in an internship at Nutriliser, where our team is building an MVP for a food app using React Native, Python and Supabase.  We started building a Food Image Recognition System part using TensorFlow and MobileNetV2 for tranfer learning to train it. 
 I love learning, building things and turning ideas into real apps and working with people.  
 🐈 🦄
 
 Here on my GitHub you can find my study projects, group work and our final internship project built together with **con2**.
 
 ---
-
-#### [Multi-Tenancy Storage & Booking App – “Harakka”](https://github.com/con2/harakka) - Link
-(unfortunately it if offline until our customers are deploying it again)
-
-**Role:** Full-Stack Developer · Product Owner · Team Lead  
-**Tech Stack:** TypeScript · React · Node.js · Supabase · PostgreSQL · TailwindCSS
-
-During our internship, I worked as a part of a small, self-organised development team. We built a full-stack multi-tenant booking app for a real customer. I contributed technically and also in a product-oriented role.
-
-**My main responsibilities:**
-- Acting as *Product Owner / Scrum Master* with sprint planning, prioritizing and customer communication  
-- Designing and implementing several backend APIs (Node.js + Supabase) 
-- Debugging, bug reports and bug fixing  
-- Reviewing pull requests and supporting the team with documentation and coordination  
-
-The project gave me a real experience with autonomy, ownership and how to deliver a production-level app with my team.
 
 ```ts
 const happyPlace = "coding";
