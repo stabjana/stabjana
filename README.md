@@ -1,7 +1,7 @@
 ### Stefanie Jana :wave:
 
 Hi, I’m Steffi, a former archaeologist and now a full-stack developer.  
-I recently finished my studies at Business College Helsinki and I am currently working in an internship at Nutriliser, where our team is building an MVP for a food app using React Native, Python and Supabase.  We started building a Food Image Recognition System part using TensorFlow and MobileNetV2 for tranfer learning to train it. 
+I recently finished my studies at Business College Helsinki and I am currently working in an internship at Nutriliser, where our team is building an MVP for a food app using React Native, Python and Supabase.  We started building a Food Image Recognition System using TensorFlow and MobileNetV2 for transfer learning to train it. 
 I love learning, building things and turning ideas into real apps and working with people.  
 🐈 🦄
 
