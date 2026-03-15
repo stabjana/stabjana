@@ -5,7 +5,7 @@ I recently finished my studies at Business College Helsinki and I am currently w
 I love learning, building things and turning ideas into real apps and working with people.  
 🐈 🦄
 
-Here on my GitHub you can find my study projects, group work and our final internship project built together with **con2**.
+Here on my GitHub you can find my study projects, group work, our final internship project built together with **con2** and some hubby projects.
 
 ---
 
